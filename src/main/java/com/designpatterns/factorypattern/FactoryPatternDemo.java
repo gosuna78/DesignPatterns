@@ -1,5 +1,7 @@
 package com.designpatterns.factorypattern;
 
+import com.designpatterns.Shape;
+
 public class FactoryPatternDemo {
 
     public static void main(final String[] args) {
